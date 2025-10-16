@@ -47,7 +47,7 @@
 ---
 
 <div align="center">
-  <img src="https://cdn.ironman.my.id/i/9zd4if.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+  <img src="https://raw.githubusercontent.com/JawadTechXD/JawadTechXD/refs/heads/main/khanmd.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 </div>
 
 ---
@@ -135,6 +135,22 @@
     </td>
   </tr>
 </table>
+
+## 🤖 Deploy SIGMA-MD Mini
+
+> Simple pairing process - Just connect your WhatsApp and start using the bot instantly!
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://sigma-mini.vercel.app" target="_blank">
+        <img alt="Deploy Sigma MD Mini" src="https://img.shields.io/badge/Deploy%20Sigma%20MD%20Mini-FF8C00?style=for-the-badge&logo=rocket&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+> 💡 **Quick Start**: Visit the link above, pair your number, and the bot will be ready to use!
 
 <table align="center">
   <tr>
