@@ -1,4 +1,4 @@
-// deploy repo is closed no longer available for any type of deployment 👀
+// ok deploy repo is closed no longer available for any type of deployment 👀
 
 // Deploy From New Repository ✅ 
 
